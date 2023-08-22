@@ -1,0 +1,19 @@
+.singleTrainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.trainDetailCard {
+    max-width: 600px;
+    width: 90%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    padding: 20px;
+}
+
+.trainName {
+    text-align: center;
+    margin-bottom: 20px;
+}
